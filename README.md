@@ -1,5 +1,5 @@
 # Game-of-Blackjack
-The game of Blackjack also know as game of 21. The player who have cards score 21 or near to 21 will win the game.
+The game of Blackjack also known as game of 21. The player who have cards score 21 or near to 21 will win the game.
 
 Rules of Game:-
 1. You've unlimited deck of cards(cards are 11, 1, ,2 , 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10)
